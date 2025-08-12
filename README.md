@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Kanishka;AI+%7C+ML+Enthusiast;Exploring+Quantum+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hiee🌻+%F0%9F%91%8B+I'm+Kanishka;AI+%7C+ML+Engineer in making ;Exploring+Quantum+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
