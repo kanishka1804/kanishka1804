@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kanishka1804/kanishka1804/blob/main/banner.png?raw=true" alt="Kanishka Banner" width="100%" />
+</p>
+
 <!-- Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hiee,+I'm+Kanishka!!+🌻;AI+%7C+ML+Engineer+in+making+🤖;🚀+Exploring+Quantum+Computing+⚛️" alt="Typing SVG" />
