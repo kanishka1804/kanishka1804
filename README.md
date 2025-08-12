@@ -33,11 +33,12 @@ P.S. If you share the same passion, whether to swap puns or brainstorm ideas, Iâ
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-1A3C70?style=for-the-badge" alt="Seaborn" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Qiskit-303F9F?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cirq" />
+  <img src="https://img.shields.io/badge/Pennylane-3E3A99?style=for-the-badge&logo=pennylane&logoColor=white" alt="Pennylane" />
 </p>
 
 #### Tools & Platforms  
@@ -61,11 +62,9 @@ P.S. If you share the same passion, whether to swap puns or brainstorm ideas, Iâ
 
 ### ðŸ“Š GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka1804&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka1804&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka1804&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 ---
